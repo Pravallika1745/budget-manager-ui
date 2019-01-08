@@ -1,0 +1,13 @@
+{
+    "/server":{
+    "target":"http://localhost:8000",
+    "username":"user",
+    "password":"fedbddfa-11b7-463a-ae57-1ed6785035aa",
+    "secure":true,
+    "changeOrigin":true,
+    "logLevel":"debug",
+    "pathRewrite":{
+        "^/server":""
+        }
+    }
+}
